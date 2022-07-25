@@ -1,4 +1,5 @@
 export default {
+  base: '/umi-4-issue-redirect',
   npmClient: 'npm',
   routes: [
     { path: '/', component: 'index' },
