@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[866],{37025:function(i,e,t){t.r(e);var s=t(1084),n=t(86074);e.default=function(){var u=(0,s.Qt)(),h=u.route;return(0,n.jsxs)("main",{children:[(0,n.jsx)("p",{children:"index"}),(0,n.jsxs)("p",{children:["Route: ",h.path]}),(0,n.jsxs)("p",{children:["window.history.length: ",history.length]})]})}}}]);
